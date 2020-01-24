@@ -24,7 +24,7 @@ using ham radio. This exposed me to many troubleshooting situations with time co
 at an early age. Simultaneously, I developed an interest in autonomous mobile
 robotics, and became involved with the Seattle Robotics Society, eventually getting
 one-on-one mentoring by a mechanical engineer. Shortly thereafter, I finagled a
-legimately-licensed 16 user copy of SCO's System V-based Unix, which I proceeded to
+legitimately-licensed 16 user copy of SCO's System V-based Unix, which I proceeded to
 install it on a patched-together 486. I chased-down somewhat obsolete but still
 supported multi-port serial boards, a SCSI controller, a Telebit PEP modem for UUCP,
 a number of old dumb terminals, and then came close to failing my classes 5 school
