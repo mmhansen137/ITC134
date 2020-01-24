@@ -18,18 +18,14 @@ a business with a complex mixture of current and legacy infrastructure, and
 helped a University of Washington researcher interface a gas chromatograph
 to a mass spectrometer.
 
-What makes me different? When I was a small child, I was a constant pest to my
-much-older brother, as he repaired and rebuilt a number of old cars, trucks, and
-a boat in our garage, giving me early exposure to things mechanical and electrical,
-and the beginnings of an intuitive grasp of troubleshooting. Later, I passed my first
-ham radio license exam at age 9, and progressed 3 license classes by age 13. I
-immediately became involved in supporting public events and preparing for emergencies
-using ham radio. This exposed me to many troubleshooting situations with time constraints
-at an early age. Simultaneously, I developed an interest in autonomous mobile
-robotics, and became involved with the Seattle Robotics Society, eventually getting
-one-on-one mentoring by a mechanical engineer. Shortly thereafter, I finagled a
-legitimately-licensed 16 user copy of SCO's System V-based Unix, which I proceeded to
-install it on a patched-together 486. I chased-down somewhat obsolete but still
-supported multi-port serial boards, a SCSI controller, a Telebit PEP modem for UUCP,
-a number of old dumb terminals, and then came close to failing my classes 5 school
-years in a row.
+What makes me different? I developed a strong, intuitive grasp of troubleshooting
+at an early age, due to exposure to an unusually broad combination of technology.
+I earned a ham radio license before I was in middle school, received one-on-one
+mentoring in building autonomous mobile robots by a mechanical engineer. I finagled
+a legitimately-licensed 16 user copy of SCO OpenServer (A System V-based Unix)
+at age 14. I assembled a 486 computer with a then-large amount of RAM, a SCSI
+host bus adapter, two multi-port serial boards, and a special Packet Ensemble
+Protocol modem to run it on. Despite a lack of software beyond that included
+with the operating system, no direct access to the internet, and mostly obsolete
+reference materials available through my local library, I was able to learn
+a great deal, sometimes to the detriment of my studies.
