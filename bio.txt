@@ -4,7 +4,7 @@ ITC 134 Winter 2020
 Bio
 
 I solve weird problems. My entire career in technology has focused on
-getting businesses and organizations trough situations where conventional
+getting businesses and organizations through situations where conventional
 sources of support fail, or won't even try. I've fixed an obscure problem
 with the files containing an author's manuscript, allowing his book to go
 to press, I've helped identify and fix mysterious intermittent communications
