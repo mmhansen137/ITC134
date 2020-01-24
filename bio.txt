@@ -1,0 +1,31 @@
+
+I solve weird problems. My entire career in technology has focussed on
+getting businesses and organizations trough situations where conventional
+sources of support fail, or won't even try. I've fixed an obscure problem
+with the files containing an author's manuscript, allowing his book to go
+to press, I've helped identify and fix mysterious intermittent communications
+problems in an office tower related to vibration from a freight elevator,
+developed an outside-the-box backup solution for a large telephone system
+with failed backup hardware, identified a means of solving an apparently
+insoluable issue that same phone system's dial plans being unable to
+corretly route local and long distance calls after changes to the PSTN
+that the designers didn't anticipate, created a server virtualization plan for
+a business with a complex mixture of current and legacy infrastructure, and
+helped a University of Washington researcher interface a gas chromatograph
+to a mass spectrometer.
+
+What makes me different? When I was a small child, I was a constant pest to my
+much-older brother, as he repaired and rebuilt a number of old cars, trucks, and
+a boat in our garage, giving me early exposure to things mechanical and electrical,
+and the beginnings of an intuitive grasp of troubleshooting. Later, I passed my first
+ham radio license exam at age 9, and progressed 3 license classes by age 13. I
+immediately became involved in supporting public events and preparing for emergencies
+using ham radio. This exposed me to many troubleshooting situations with time constraints
+at an early age. Simultaneously, I developed an interest in autonomous mobile
+robotics, and became involved with the Seattle Robotics Society, eventually getting
+one-on-one mentoring by a mechanical engineer. Sortly thereafter, I finagled a
+legimately-licensed 16 user copy of SCO's System V-based Unix, which I proceeded to
+install it on a patched-together 486. I chased-down somewhat obsolete but still
+supported multiport serial boards, a SCSI controller, a Telebit PEP modem for UUCP,
+a number of old dumb terminals, and then came close to failing my classes 5 school
+years in a row.
