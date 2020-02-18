@@ -31,3 +31,60 @@ https://www.stackbuilders.com/tutorials/functional-full-stack/purescript-bridge/
 https://awesomeopensource.com/project/azac/cobol-on-wheelchair
 https://www.reddit.com/r/purescript/comments/3t88xg/purescript_and_web_frameworks_a_noob_in_need_of/
 https://github.com/purescript/documentation/blob/master/guides/Getting-Started.md
+
+
+Frameworks
+
+collection of code that saves web dev labor
+
+Codeignitor
+laravel
+MVC model view controller
+
+Selenium testing framework
+
+CI/CD continuous integration/continuous development/deployment
+Jira
+
+Agile vs. Waterfall
+
+Waterfall is planned-out from the beginning: risks starting over at beginning
+Agile is based on "sprints"
+scrum vs. scrum master
+standup meetings: did yesterday, doing today, going to do tomorrow
+controlling scope creep
+
+Waterfall doesn't allow for much client involvement
+
+MVC - laravel requires implementing it
+how flexible is the framework
+learning curve
+
+David Wall redfin netflix amzn urban analog llc
+Networking: kind, follow-through
+
+researching corporate culture to adapt way of speaking
+
+Companies might have different mappings for jargon/acronyms
+
+Self-branding : how people talk about you when you're not in the room
+record self doing whiteboard exercises
+
+slack: companies will have expectations for response times and frequency of check-ins
+
+scheduling system:
+
+
+flat rate
+what is the budget?
+How many hours of work at rate? Feasible?
+Triage if budget too small
+
+ Work on networking (the people kind)
+ Portfolio: 
+ 
+ build same site with different frameworks
+ find a website that sucks, redo it
+ identify problems, solve them
+ 
+ mechanic's truck
