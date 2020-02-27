@@ -1,4 +1,9 @@
 https://www.vultr.com/docs/installing-node-js-and-express
 https://expressjs.com/en/starter/installing.html
+https://cloud.google.com/compute/docs/instances/adding-removing-ssh-keys
+https://cloud.google.com/compute/docs/instances/connecting-to-instance
+https://www.youtube.com/watch?v=Z_ePcvnjQb4
+https://letsencrypt.org/getting-started/
 
-Create N1: F1 minimal instance w/ Ubuntu 18.04 LTS, 10GB storage
+Create N1: F1 minimal instance w/ Ubuntu 18.04 LTS, 10GB storage, allow http, https
+Import ssh keys
