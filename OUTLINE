@@ -33,3 +33,9 @@ https://crontab.guru/every-15-minutes
 /etc/cron.hourly
 /etc/cron.monthly
 /etc/cron.weekly
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+
+checksum of key files
+key services running
+port 3000 still open
+packages present
