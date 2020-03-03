@@ -1,0 +1,17 @@
+Steps to install a MEAN stack OUTLINE
+
+A. Create GCloud Instance
+
+  Common to all applications:
+    sudo apt-get update
+    sudo apt-get build-essential
+    " " curl
+
+B. Install MongoDB
+
+C. Install NodeJS
+  
+D. Install Angular
+
+E. Install Express
+
