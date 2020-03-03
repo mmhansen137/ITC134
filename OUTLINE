@@ -23,3 +23,13 @@ E. Install Express
 
 F. Firewall
 
+G. Monitoring
+https://medium.com/@thucnc/schedule-tasks-to-run-regularly-in-ubuntu-18-04-with-cronta-13227d669256
+sudo apt install cron
+sudo service cron start
+sudo service cron status 
+https://crontab.guru/every-15-minutes
+/etc/cron.daily
+/etc/cron.hourly
+/etc/cron.monthly
+/etc/cron.weekly
