@@ -39,3 +39,5 @@ checksum of key files
 key services running
 port 3000 still open
 packages present
+
+https://stackoverflow.com/questions/43266975/google-cloud-vm-when-sudoing-asks-for-password
